@@ -1,4 +1,4 @@
-#include <stdio.h>nuevo commit
+#include <stdio.h>
 void swap(int* p0, int* p1);
 //This function switch the content of a couple of pointers
 int main(void){
